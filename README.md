@@ -118,17 +118,17 @@ Screenshots
 Top Left
 
 
-<img width="389" height="332" "https://github.com/Brune-Irankunda/document/blob/main/sc7.png />
+<img src="sc7.png" width="389" height="332" alt="Screenshot">
 
 Top Center
 
-<img width="389" height="332" "https://github.com/Brune-Irankunda/document/blob/main/sc6.png />
 
+<img src="sc6.png" width="389" height="332" alt="Screenshot">
 
 Top Right
+<img src="sc4.png" width="389" height="332" alt="Screenshot">
 
 
-<img width="389" height="332" "https://github.com/Brune-Irankunda/document/blob/main/sc4.png />
 
 Middle Left
 
@@ -153,6 +153,7 @@ Bottom Left
 Bottom Center
 
 
-
+<img width="389" height="332" "https://github.com/Brune-Irankunda/document/blob/main/sc8.png />
 
 Bottom Right
+<img width="389" height="332" "https://github.com/Brune-Irankunda/document/blob/main/sc9.png />
