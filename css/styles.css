@@ -1,0 +1,129 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+}
+
+.header {
+    /* border: 2px solid black; */
+    margin: 10px;
+}
+
+.header h1 {
+    text-align: center;
+    color: brown;
+}
+
+.header nav {
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.header nav a {
+    padding:5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 5px;
+    border: 1 px solid black;
+    background-color: rgb(129, 129, 129);
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+}
+
+main {
+    /* border: 2px solid red; */
+    margin: 20px;
+    padding: 20px;
+    height: 100 vh;
+    text-align: center;
+}
+
+article {
+    font-size: 18px;
+    font-weight: 500;
+  
+}
+
+article h2 {
+      color: brown;
+      margin: 10px;
+}
+
+
+footer {
+    /* border: 2px solid blue; */
+    margin: 30px;
+    text-align: center;
+}
+
+.form-container {
+    border: 2px solid black;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 4px 2px 4px 1px;
+    padding: 20px;
+}
+
+.form-group {
+    padding: 10px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 2px;
+}
+
+.form-group input,
+.form-group select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.form-group :focus {
+    border: 1px solid brown;
+    outline:none;
+    
+}
+
+fieldset {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+
+.form-group textarea {
+    height: 100px;
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+
+.form-btn button {
+    padding: 10px 20px;
+    border: 1px solid brown;
+    border-radius: 4px;
+    background-color: brown;
+    color: white;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.form-btn button:hover {
+    background-color: white;
+    color: brown;
+    border: 1px solid brown;
+}
