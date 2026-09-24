@@ -147,7 +147,7 @@ Middle Right
 
 Bottom Left
 
-
+<img width="389" height="332" alt="table customer" />
 
 
 Bottom Center
