@@ -1,3 +1,6 @@
+my video
+https://drive.google.com/file/d/1fNKx1btZS9Sa5DpiACRrrgtfznCCkQOq/view?usp=drive_link
+
 Project Description
 
 This project demonstrates how CSS Flexbox can be used to position boxes in all 9 areas of the screen.
@@ -7,6 +10,7 @@ The project uses HTML and CSS only. No JavaScript is used.
 The flex container fills the entire screen using:
 
 height: 100vh;
+
 
 
 
@@ -126,34 +130,39 @@ Top Center
 <img src="sc6.png" width="389" height="332" alt="Screenshot">
 
 Top Right
+
+
 <img src="sc4.png" width="389" height="332" alt="Screenshot">
 
 
 
 Middle Left
 
-<img width="389" height="332" "https://github.com/Brune-Irankunda/document/blob/main/sc3.png />
+<img src="sc3.png" width="389" height="332" alt="Screenshot">
+
 
 
 Center
 
 
-<img width="389" height="332" "https://github.com/Brune-Irankunda/document/blob/main/sc5.png />
+<img src="sc5.png" width="389" height="332" alt="Screenshot">
+
 
 Middle Right
 
 
-<img width="389" height="332" "https://github.com/Brune-Irankunda/document/blob/main/sc2.png />
+<img src="sc2.png" width="389" height="332" alt="Screenshot">
+
 
 Bottom Left
 
-<img width="389" height="332" "https://github.com/Brune-Irankunda/document/blob/main/sc1.png />
+
+<img src="sc1.png" width="389" height="332" alt="Screenshot">
 
 
 Bottom Center
 
-
-<img width="389" height="332" "https://github.com/Brune-Irankunda/document/blob/main/sc8.png />
+<img src="sc8.png" width="389" height="332" alt="Screenshot">
 
 Bottom Right
-<img width="389" height="332" "https://github.com/Brune-Irankunda/document/blob/main/sc9.png />
+<img src="sc8.png" width="389" height="332" alt="Screenshot">
