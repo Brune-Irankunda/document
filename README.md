@@ -118,36 +118,36 @@ Screenshots
 Top Left
 
 
-
+<img width="389" height="332" "https://github.com/Brune-Irankunda/document/blob/main/sc7.png />
 
 Top Center
 
-
+<img width="389" height="332" "https://github.com/Brune-Irankunda/document/blob/main/sc6.png />
 
 
 Top Right
 
 
-
+<img width="389" height="332" "https://github.com/Brune-Irankunda/document/blob/main/sc4.png />
 
 Middle Left
 
-
+<img width="389" height="332" "https://github.com/Brune-Irankunda/document/blob/main/sc3.png />
 
 
 Center
 
 
-
+<img width="389" height="332" "https://github.com/Brune-Irankunda/document/blob/main/sc5.png />
 
 Middle Right
 
 
-
+<img width="389" height="332" "https://github.com/Brune-Irankunda/document/blob/main/sc2.png />
 
 Bottom Left
 
-<img width="389" height="332" alt="table customer" />
+<img width="389" height="332" "https://github.com/Brune-Irankunda/document/blob/main/sc1.png />
 
 
 Bottom Center
