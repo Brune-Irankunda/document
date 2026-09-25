@@ -1,0 +1,154 @@
+<doctype html>
+    <html>
+        <head>
+            <title>flex document</title>
+            <style>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+
+    display: flex;
+
+    flex-wrap: wrap;
+    gap: 10px;
+
+    /* Starting position */
+    justify-content: flex-start;
+    align-items: flex-start;
+
+    animation-name: moveBoxes;
+    animation-duration: 18s;
+    animation-iteration-count: infinite;
+}
+
+/* Boxes */
+
+.box {
+    width: 80px;
+    height: 80px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+/* Different colors */
+
+.box1 {
+    background-color: red;
+}
+
+.box2 {
+    background-color: blue;
+}
+
+.box3 {
+    background-color: green;
+}
+
+.box4 {
+    background-color: orange;
+}
+
+.box5 {
+    background-color: purple;
+}
+
+.box6 {
+    background-color: brown;
+}
+
+
+/* ANIMATION */
+
+@keyframes moveBoxes {
+
+    /* 1. TOP LEFT */
+    0% {
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+
+    /* 2. TOP CENTER */
+    11% {
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+    /* 3. TOP RIGHT */
+    22% {
+        justify-content: flex-end;
+        align-items: flex-start;
+    }
+
+    /* 4. MIDDLE RIGHT */
+    33% {
+        justify-content: flex-end;
+        align-items: center;
+    }
+
+    /* 5. CENTER */
+    44% {
+        justify-content: center;
+        align-items: center;
+    }
+
+    /* 6. MIDDLE LEFT */
+    55% {
+        justify-content: flex-start;
+        align-items: center;
+    }
+
+    /* 7. BOTTOM LEFT */
+    66% {
+        justify-content: flex-start;
+        align-items: flex-end;
+    }
+
+    /* 8. BOTTOM CENTER */
+    77% {
+        justify-content: center;
+        align-items: flex-end;
+    }
+
+    /* 9. BOTTOM RIGHT */
+    88% {
+        justify-content: flex-end;
+        align-items: flex-end;
+    }
+
+    /* Return to TOP LEFT */
+    100% {
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+}
+
+            </style>
+        </head>
+        <body>
+            <div class ="container">
+                <div class="box1">1</div>
+                <div class="box2">2</div>
+                 <div class="box3">3</div>
+                  <div class="box4">4</div>
+                   <div class="box5">5</div>
+                     <div class="box6">6</div>
+            </div>
+        </body>
+    </html>
